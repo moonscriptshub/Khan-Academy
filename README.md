@@ -88,7 +88,7 @@ A operação é extremamente simples:
 <div align="center">
 
   <img src="https://api.iconify.design/mdi:discord.svg?color=%235865F2" width="24" align="absmiddle"> 
-  <strong><a href="https://discord.gg/QBTMzAMFkW" target="_blank">Acesse nossa Comunidade no Discord</a></strong>
+  <strong><a href="https://discord.gg/vpxBkce4Vs" target="_blank">Acesse nossa Comunidade no Discord</a></strong>
   
   <br><br>
   
